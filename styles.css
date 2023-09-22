@@ -1,10 +1,4 @@
 body {
-  background-color: #000000;
-  color: #ffffff;
-  font-family: andale mono;
-  font-size:14px;
-  line-height: 2;
-}
 
 @font-face {
     font-family: 'pixel_operator_monobold';
@@ -22,6 +16,14 @@ body {
          url('pixeloperatormono-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+  
+  background-color: #000000;
+  color: #ffffff;
+  font-family:pixel_operator_monoregular;
+  font-size:14px;
+  line-height: 2;
+}
+
 
 }
 
